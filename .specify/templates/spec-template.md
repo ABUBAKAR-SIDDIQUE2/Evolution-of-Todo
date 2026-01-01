@@ -1,5 +1,6 @@
 # Feature Specification: [FEATURE NAME]
 
+**Target Phase**: [Phase I-V]
 **Feature Branch**: `[###-feature-name]`  
 **Created**: [DATE]  
 **Status**: Draft  

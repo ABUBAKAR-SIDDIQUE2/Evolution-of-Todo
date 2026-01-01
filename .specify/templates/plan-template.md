@@ -31,7 +31,12 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **Phase Alignment**: Is the feature scoped to the correct Phase (I-V)?
+- [ ] **Structure Compliance**: Does the proposed structure follow the phase-specific requirements?
+- [ ] **Gemini CLI Authority**: Is the plan designed for Gemini-exclusive implementation (no manual coding)?
+- [ ] **Lifecycle Adherence**: Does this plan follow the PHR -> SPEC -> PLAN flow?
+- [ ] **Security/Secrets**: Does the plan avoid hardcoded secrets and follow the auth standards?
+- [ ] **Independence**: Is the phase logically independent of others (no cross-phase imports)?
 
 ## Project Structure
 
