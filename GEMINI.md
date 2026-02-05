@@ -208,3 +208,10 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 
 ## Code Standards
 See `.specify/memory/constitution.md` for code quality, testing, performance, security, and architecture principles.
+
+## Active Technologies
+- Python 3.13+ + Standard Library (`argparse`, `logging`, `dataclasses`). Dev: `pytest`, `ruff`/`flake8`. (001-in-memory-python-cli)
+- In-Memory (Python `list`/`dict`). No persistence. (001-in-memory-python-cli)
+
+## Recent Changes
+- 001-in-memory-python-cli: Added Python 3.13+ + Standard Library (`argparse`, `logging`, `dataclasses`). Dev: `pytest`, `ruff`/`flake8`.
